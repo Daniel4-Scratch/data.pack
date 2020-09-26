@@ -1,4 +1,5 @@
 # These are supported funding model platforms
-
-github: [Daniel4-Scratch]
-custom: https://github.com/Daniel4-Scratch/wiki
+github: [octocat, surftocat]
+patreon: octocat
+tidelift: npm/octo-package
+custom: ["https://www.paypal.me/octocat", octocat.com]
